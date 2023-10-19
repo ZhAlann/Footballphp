@@ -1,5 +1,3 @@
-Bonjour voici le read.me du projet Ligue1 en php
-tout d'abord veuillez vous connecter au serveur avec
-créer la base de donnée grâce au fichier disponible dans le dossier BDD
-Il faudrat peut être changer les valeurs dans GestionBDD.php dans la function __construct
+veuillez vous connecter au serveur en créer la base de donnée grâce au fichier disponible dans le dossier BDD 
+changer les valeurs dans GestionBDD.php dans la function __construct
 puis lancez Index.php 
