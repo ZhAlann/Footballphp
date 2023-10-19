@@ -1,0 +1,101 @@
+body {
+    background-image: url(https://sportbusiness.club/wp-content/uploads/2022/05/Kipsta-Football-Ballons-Ligue-1-2022-2023-2.jpg) !important;
+    justify-content: center;
+    color: white;
+    background-size: cover;
+}
+
+form {
+    background: #1e272e;
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .25);
+
+}
+
+h1 {
+    border-bottom: 1px solid white;
+}
+
+h2 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.article {
+    background: #1e272e;
+    margin: 30px 0;
+    padding: 30px;
+    padding-bottom: 70px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .25);
+}
+
+input {
+    border-bottom: 1px solid rgba(255, 255, 255, .2);
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+
+.box-button {
+    background: #485460;
+    color: white;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 50%;
+    cursor: pointer;
+}
+
+.connecté {
+    display: flex;
+}
+
+nav {
+    display: flex;
+}
+
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    color: black;
+    align-items: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-size: large;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.profils {
+    background: #1e272e;
+    margin: 20px 0;
+    padding: 10px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.profil {
+    display: inline-block;
+    align-content: center;
+    justify-content: center;
+}
+
+.accueil {
+    padding-left: 1%;
+    color: yellowgreen;
+}
+
+.page {
+    padding-left: 1%;
+    color: yellowgreen;
+}
